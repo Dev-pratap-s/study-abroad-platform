@@ -1,11 +1,4 @@
-<img width="1417" height="873" alt="Screenshot 2026-04-16 151913" src="https://github.com/user-attachments/assets/93d29268-2c2d-474e-8644-384d106558b8" />
-<img width="1383" height="895" alt="Screenshot 2026-04-16 151859" src="https://github.com/user-attachments/assets/fe4ad921-3fa2-471c-bb7f-0c40f226a652" />
-<img width="1364" height="879" alt="Screenshot 2026-04-16 151849" src="https://github.com/user-attachments/assets/bac982dc-e04e-4ba4-9fc1-b4e7fcc439ed" />
-<img width="1423" height="845" alt="Screenshot 2026-04-16 151839" src="https://github.com/user-attachments/assets/44e19485-951e-4ae5-bacf-fa4791261285" />
-<img width="1382" height="868" alt="Screenshot 2026-04-16 151813" src="https://github.com/user-attachments/assets/76dd184d-4143-4255-9fed-078c4f19a641" />
-<img width="1383" height="470" alt="Screenshot 2026-04-16 151800" src="https://github.com/user-attachments/assets/dfce4d44-ed8b-4f77-a78c-8561401d6403" />
-<img width="357" height="296" alt="Screenshot 2026-04-16 151746" src="https://github.com/user-attachments/assets/d683108a-38ec-493e-a2c7-f21a0e78a8e7" />
-<img width="357" height="296" alt="Screenshot 2026-04-16 151746" src="https://github.com/user-attachments/assets/684993f9-780d-439c-80be-1a4357c48db7" />
+
 🌍✈️ Study Abroad Platform - Backend API
 
 Hello! 👋 Welcome to the backend of the Study Abroad Platform.
@@ -165,3 +158,13 @@ My Applications
 
 GET /api/applications/my-applications
 🚀 Done!
+
+
+<img width="1417" height="873" alt="Screenshot 2026-04-16 151913" src="https://github.com/user-attachments/assets/93d29268-2c2d-474e-8644-384d106558b8" />
+<img width="1383" height="895" alt="Screenshot 2026-04-16 151859" src="https://github.com/user-attachments/assets/fe4ad921-3fa2-471c-bb7f-0c40f226a652" />
+<img width="1364" height="879" alt="Screenshot 2026-04-16 151849" src="https://github.com/user-attachments/assets/bac982dc-e04e-4ba4-9fc1-b4e7fcc439ed" />
+<img width="1423" height="845" alt="Screenshot 2026-04-16 151839" src="https://github.com/user-attachments/assets/44e19485-951e-4ae5-bacf-fa4791261285" />
+<img width="1382" height="868" alt="Screenshot 2026-04-16 151813" src="https://github.com/user-attachments/assets/76dd184d-4143-4255-9fed-078c4f19a641" />
+<img width="1383" height="470" alt="Screenshot 2026-04-16 151800" src="https://github.com/user-attachments/assets/dfce4d44-ed8b-4f77-a78c-8561401d6403" />
+<img width="357" height="296" alt="Screenshot 2026-04-16 151746" src="https://github.com/user-attachments/assets/d683108a-38ec-493e-a2c7-f21a0e78a8e7" />
+<img width="357" height="296" alt="Screenshot 2026-04-16 151746" src="https://github.com/user-attachments/assets/684993f9-780d-439c-80be-1a4357c48db7" />
